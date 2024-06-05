@@ -1,0 +1,89 @@
+.admin-profile {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    color: black;
+  }
+  
+  .profile-form {
+    margin-bottom: 20px;
+    color: black;
+  }
+  
+  .profile-form label {
+    display: block;
+    margin-bottom: 10px;
+    color: black;
+  }
+  
+  .profile-display {
+    margin-top: 20px;
+    color: black;
+  }
+  
+  .profile-display h2 {
+    margin-top: 20px;
+     color: black;
+  }
+  
+  .admin-profile {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .profile-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .profile-header h1 {
+    flex-grow: 1;
+  }
+  
+  .profile-image {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-right:80%;
+  }
+  
+  .profile-form {
+    margin-bottom: 20px;
+  }
+  
+  .profile-form label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .profile-display {
+    margin-top: 20px;
+  }
+  
+  .profile-display h2 {
+    margin-top: 20px;
+  }
+  
+  .profile-display table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .profile-display table, .profile-display td {
+    border: 1px solid #ddd;
+  }
+  
+  .profile-display td {
+    padding: 8px;
+  }
+  
+  .profile-display td strong {
+    display: inline-block;
+    width: 150px;
+  }
+  .marRig{
+    margin-right: 50%;
+  }

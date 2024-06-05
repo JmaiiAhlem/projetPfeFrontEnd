@@ -1,0 +1,35 @@
+.societes-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .societes-table th,
+  .societes-table td {
+    padding: 8px;
+    border: 1px solid #ddd;
+    color: #233067;
+  }
+  
+  .societes-table th {
+    background-color: #f2f2f2;
+  }
+  .societes-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .societes-table th,
+  .societes-table td {
+    border: 1px solid #ccc;
+    padding: 5px;
+    font-size: 13px;
+  }
+  
+  .societes-table th {
+    background-color: #f8f8f8;
+  }
+  
+  .societe-actions {
+    text-align: center;
+  }
+  
